@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on many FiveM Scripts
-- 🌱 I’m currently learning some Java, Vue, Quasar and other stuff
+- 🌱 I’m currently learning some Java, Vue, Quasar and other languages 
 - 👯 I’m looking to collaborate on a video game maby...
 - 🤔 I’m looking for help with nothing right now
 - 💬 Ask me about anything
