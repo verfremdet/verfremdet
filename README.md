@@ -6,4 +6,4 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: Discord: verfremdet
 
-### Verfremdet 2023
+### Verfremdet 2025+
